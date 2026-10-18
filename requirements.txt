@@ -1,0 +1,11 @@
+langgraph>=0.2.60
+langchain-core>=0.3.25
+langchain-groq>=0.2.2
+streamlit>=1.40
+python-dotenv>=1.0
+httpx>=0.27
+trafilatura>=1.12
+ddgs>=6.3
+tavily-python>=0.5
+pydantic>=2.9
+pytest>=8.0
